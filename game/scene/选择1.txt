@@ -2,10 +2,10 @@
 bgm:çç¥æ´é¨.wav;
 四月一日君寻:伞上的水倒我头上了！;
 百目鬼静:谁让你离那么远，呆子;
-changeFigure:41.å¶æ.è¸çº¢.png -left -transform={"colorRed":121,"colorGreen":132,"colorBlue":184,"bevel":0.3,"bevelThickness":20,"bevelSoftness":0.5,"bevelRed":249,"bevelGreen":250,"bevelBlue":242};
+changeFigure:416.png -left -transform={"colorRed":121,"colorGreen":132,"colorBlue":184,"bevel":0.3,"bevelThickness":20,"bevelSoftness":0.5,"bevelRed":249,"bevelGreen":250,"bevelBlue":242};
 :四月一日这才发现他们以一种极为喜感的方式走在大街上，打伞的人尽力斜着伞，伞下的人正好被伞上滚落下的雨水击中。;
 :外人看来，这不是正值中二期的情侣闹了什么别扭，就是两人中至少有一方精神不正常。;
-bgm:çç¥æ´é¨.wav;
+bgm:焉知晴雨.wav;
 :于是两人的距离缩至了原先的1/2|双方都可以清晰的感受到肩膀的碰撞，听到对方的呼吸，看见对方的表情;
 :四月一日好像有点理解为什么相合伞下是个亲密的场域了。|真正有过相合伞暧昧体验的人其实不在多数，为什么偏偏是和这家伙。;
 :一把伞窄窄的空间，容下两个人已是不易，伞外是瓢泼大雨，伞内只有自己和对方，和自己讨厌的人，简直是一种折磨。;
