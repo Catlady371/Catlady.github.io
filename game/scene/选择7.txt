@@ -3,7 +3,7 @@ changeBg:MTXX_MH20250808_174101006.jpg;
 changeFigure:1754646588768.png -left;
 :电话响了，是侑子小姐打来的;
 changeFigure:413.png -left;
-changeFigure:none;
+changeFigure:none -right;
 choose:接听:选择场景文件;
 壹原侑子:于是就凑过去和百目鬼同学打着相合伞回家了是吗？;
 四月一日君寻:侑子小姐！你怎么知道的？;
